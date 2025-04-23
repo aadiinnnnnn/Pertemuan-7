@@ -1,0 +1,1 @@
+saya membuat website Pengambilan KRS, dan menampilkan data mahasiswa, mata kuliah, dan info KRS yang di ambil oleh mahasiswa, kita juga bisa menambahkan nama mahasiswa baru, menambahkan matkul baru, dan mengambil KRS
